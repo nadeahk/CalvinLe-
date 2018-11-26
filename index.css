@@ -1,18 +1,24 @@
 body { 
     /* The image used */
     background-image: url("http://4.bp.blogspot.com/-jpJGWhjlouU/VLGPKmPElII/AAAAAAAADok/5QMxFKMOnvQ/s1600/christ%2Bcreating%2Bthe%2Bearth.jpg");
+   /* Full height */
+    height: 100%; 
 
+    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     font-style: italic;
     text-align: right ;
     color: white; }
-img {
-     position: center ;
-   
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} 
 }
-li{  text-align: left ;
+li{  text-align: left;
   
   
 }
