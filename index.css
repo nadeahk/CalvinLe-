@@ -1,0 +1,25 @@
+body { 
+    /* The image used */
+    background-image: url("http://4.bp.blogspot.com/-jpJGWhjlouU/VLGPKmPElII/AAAAAAAADok/5QMxFKMOnvQ/s1600/christ%2Bcreating%2Bthe%2Bearth.jpg");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-style: italic;
+    text-align: right ;
+    color: white; }
+img {
+    position: center ;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+li{  text-align: left ;
+  
+  
+}
+h1{ text-align:center; 
+  font-style: bold; 
+}
+p{ text-align:center
+}   
